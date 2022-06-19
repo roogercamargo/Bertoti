@@ -1,44 +1,47 @@
-## **Olá, sou Rogério Camargo**
-#
-#
-
-<h1 align="center"><img src="Imagens/Profile_Rogerio.png" width="150"></h1>
-
-Estudante de Banco de Dados, estagiária de TI e através deste portifólio evidencio meus projetos realizados durante meu curso na FATEC-SJC. Com o projeto da API pude desenvolver tanto minhas hards quanto softs skills, através dele tive uma noção do que estaria enfrentando no mercado de trabalho.
+|<h2> Olá, sou Rogério Camargo!</h2> |  |
+|---------|---------|
+|*Sou estudante de Banco de Dados e estagiando na área de tecnologia em uma multinacional, deixo aqui meu portifólio de projetos que desenvolvi com a API e que foi um grande diferencial pro meu futuro.*  *O intuíto é mostrar minha evolução ao longo dos projetos.*| <p align="center"><img src="https://github.com/roogercamargo/Bertoti/blob/main/Metod.%20da%20Pesq.%20Cient%C3%ADfico-Tecnol%C3%B3gica/Imagens/Picsart_22-06-17_22-14-13-581.png" width="45%"></p>        |
 
 ## Meus Projetos
 
 ### Em 2020-2
-#
 
-<h1 align="center"><img src="LogoAPI1.png" width="150"></h1>
+
+<h1 align="center"><img src="https://github.com/roogercamargo/Bertoti/blob/main/Metod.%20da%20Pesq.%20Cient%C3%ADfico-Tecnol%C3%B3gica/Imagens/LogoAPI1.png" width="20%"></h1>
 
 ### Descrição do projeto
 
-Trabalhei no projeto da API com o Parceiro Acadêmico Professor Egydio, meu grupo era composto por 5 membros, denominado de "DeskwarePI".
-O projeto visava construir um site para uma ONG de ensino infantil (ONG Vó Maria Felix), no qual conectassem integrantes da ONG, alunos e voluntários; visando facilitar o contato da instituição com os mesmos.
-O site possui a página inicial com as notícias e calendários de evento, página de apresentação da ONG, página de doações, página de atividades para as crianças e a página de projetos. Além disso é possível:
+Meu primeiro projeto. O objetivo geral era a criação de uma plataforma de estudos, onde o usuário poderá ter acesso à materiais didáticos que o auxiliem em seu aprendizado, onde:
+- **Professores:** Poderiam Upar todo seu material de suas aulas e vendelos por um valor simbólico, por isso a plataforma contava com sistema de pagamento;
 
-- cadastrar participantes,
-- voluntários específicos,
-- voluntários de apoio e projetos.
-- DeskwarePI
+- **Estudantes:** Poderiam acessar os materiais e adquirir aqueles que são de seu interesse;
+
+Dessa forma professores garantem uma renda extra e alunos tem acesso à materiais verificados por quem entende.
 
 ### Tecnologias Utilizadas
 
-- **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
-
-- **Banco de Dados:** MySQL e Wampserver;
+- **Banco de Dados:** MySQL;
 
 - **Back-end:** PHP e JavaScript;
 
 - **Front-end:** HTML, CSS e JavaScript;
 
-- **Ferramentas:** Github, Visual Studio Code, Figma e Photoshop.
+- **Ferramentas:** Figma(prototipação), Discord(Comunicação da equipe)
 
 ### Contribuições Pessoais
 
-No projeto fiquei encarregada de escrever a documentação e participar da equipe do frontend, além disso fizemos um chatbot. Para a criação das telas primeiramente utilizamos o figma para o protótipo e com base nele fomos criando o site, encontramos algumas dificuldades, pois nem tudo do figma ficava bom no site funcional, adaptamos para que as telas ficassem responsivas e tivemos alguns bugs, por exemplo div sem fechamento, esquecer de colocar id no html, mas nenhum grande erro. Nossa maior dificuldade foi a criação do chatbot, não tinhamos o conhecimento necessário de javascript, e ficamos uma semana desenvolvendo essa parte do projeto.
+Atuando como Product Owner da minha equipe, meu desafio era manter a comunicação entre todos os indivíduos e principalmente com nosso cliente, alinhando todos sobre as decisões que seriam tomadas e através de conversas decidir o rumo do projeto.
+Alguns pontos principais eram:
+
+- Decisão do que seria feito em cada Sprint
+- Comunicação da equipe
+- alinnhamento com cliente
+- Prototipação do projeto
+
+Um ponto que senti que fiz diferença foi na questão da prototipação, acredito que a visualização da ideia pelo cliente seja algo fundamental para o desenvolvimento do que ele espera de fato.
+Atráves da API, pude desenvolver essa curiosidade que tinha e aplicar no projeto conceitos que, até então, só tinha visto por cima como UI e UX design, e pude ir aprimorando com o decorrer dos projetos seguintes.
+
+<p align="center"><img src="https://github.com/roogercamargo/Bertoti/blob/main/Metod.%20da%20Pesq.%20Cient%C3%ADfico-Tecnol%C3%B3gica/Imagens/Picsart_22-06-17_22-14-13-581.png" width="45%"></p>
 
 ### Hard Skills
 
