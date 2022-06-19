@@ -53,3 +53,5 @@ Atráves da API, pude desenvolver essa curiosidade que tinha e aplicar no projet
 - Pensamento criativo e crítico
 - Comunicação
 - gerenciamento de um projeto do início ao fim
+
+[Clique aqui para acessar o Git do Mr.Academy](https://github.com/ThomasPalma1/FatecPI-01)
