@@ -40,15 +40,16 @@ Alguns pontos principais eram:
 
 Um ponto que senti que fiz diferença foi na questão da prototipação, acredito que a visualização da ideia pelo cliente seja algo fundamental para o desenvolvimento do que ele espera de fato.
 Atráves da API, pude desenvolver essa curiosidade que tinha e aplicar no projeto conceitos que, até então, só tinha visto por cima como UI e UX design, e pude ir aprimorando com o decorrer dos projetos seguintes.
-
-<p align="center"><img src="https://github.com/roogercamargo/Bertoti/blob/main/Metod.%20da%20Pesq.%20Cient%C3%ADfico-Tecnol%C3%B3gica/Imagens/Picsart_22-06-17_22-14-13-581.png" width="45%"></p>
+<h1 align="center"><img src="https://github.com/roogercamargo/Bertoti/blob/main/Metod.%20da%20Pesq.%20Cient%C3%ADfico-Tecnol%C3%B3gica/Imagens/Frame%206.png" width="60%"></h1>
 
 ### Hard Skills
 
-Figma, JavaScript, CSS, Html
+- **Figma:** Desenvolvendo os Wireframes do projeto
+- **HTML e CSS:** Com a ajuda de colegas tive um avanço no conhecimento da construção de estilos das páginas Web.
 
 ### Soft Skills
 
 - Trabalho em equipe
-
-- Pensamento criativo
+- Pensamento criativo e crítico
+- Comunicação
+- gerenciamento de um projeto do início ao fim
